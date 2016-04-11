@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.7437276
+  saturation: 0
   brandStrength: 0.8100358
-  rhythmicContrast: 0.7114695
+  lightness: 0
   brandColors:
     - '#E3D9E0'
     - '#302F28'
     - '#CFB4A3'
     - '#4B774B'
     - '#88A377'
-  lightness: 0.3476703
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: wendymontellano
 favicon: null
+name: wendymontellano
 opengraph:
   image: null
   type: null
