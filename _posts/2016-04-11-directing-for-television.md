@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Directing for Television
-datePublished: '2016-04-11T17:43:12.310Z'
-dateModified: '2016-04-11T17:43:00.938Z'
+datePublished: '2016-04-11T20:59:44.895Z'
+dateModified: '2016-04-11T17:43:19.516Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-directing-for-television.md
