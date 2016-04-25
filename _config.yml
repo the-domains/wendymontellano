@@ -14,14 +14,14 @@ collections:
       number: 10
 color:
   saturation: 0.483871
-  brandStrength: 0.8064516
+  brandStrength: 0.7759857
   lightness: 0.8476703
   brandColors:
-    - '#E3DADF'
-    - '#272624'
-    - '#AAC0C5'
-    - '#39532B'
-    - '#51804E'
+    - '#FAD5DD'
+    - '#FDF6A6'
+    - '#664362'
+    - '#C7ADB3'
+    - '#7F7275'
   rhythmicContrast: 0.5806451
 cta:
   bucket: null
