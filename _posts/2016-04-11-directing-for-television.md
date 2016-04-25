@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Directing for Television
-datePublished: '2016-04-25T11:00:40.791Z'
-dateModified: '2016-04-25T11:00:37.243Z'
+datePublished: '2016-04-25T11:01:21.406Z'
+dateModified: '2016-04-25T11:01:17.720Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-directing-for-television.md
