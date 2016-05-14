@@ -1,41 +1,41 @@
-name: wendymontellano
-favicon: null
-layout_spectrum: 0.2365591
-typography_spectrum: 0.7741935
 title: "Let me tell you some story's"
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.483871
+  brandStrength: 0.75
+  lightness: 0.8476703
+  brandColors:
+    - '#415975'
+    - '#6A84A5'
+    - '#FFFFFF'
+    - '#A3D0F7'
+    - '#9E9E9E'
+  rhythmicContrast: 0.5806451
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: wendymontellano
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FAD5DD'
-    - '#FDF6A6'
-    - '#664362'
-    - '#C7ADB3'
-    - '#7F7275'
-  brandStrength: 0.75
-  lightness: 0.8476703
-  saturation: 0.483871
-  rhythmicContrast: 0.5806451
-purpose: []
+typography_spectrum: 0.7741935
+layout_spectrum: 0.2365591
